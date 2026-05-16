@@ -109,7 +109,7 @@ I have experience working independently and within development teams while maint
 # 🌐 Connect With Me
 
 - GitHub: https://github.com/Sharif-pilot
-- LinkedIn: https://www.linkedin.com/in/sharif-hussaini-7706751b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bms1kRCJrTjiqbk8sf9wOig%3D%3D
+- LinkedIn: https://www.linkedin.com/in/sharif-hussaini-7706751b7
 - Email: sharif.hussaini@ahsp.af
 
 ---

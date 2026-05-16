@@ -2,14 +2,15 @@
 
 ### Senior Software Engineer | Full Stack Developer | UI/UX Designer
 
-I am a passionate and results-driven Software Engineer with more than 8 years of professional experience in designing, developing, and deploying modern software solutions for businesses of all sizes.
+I am a passionate and results-driven Software Engineer with professional experience since 2017 in designing, developing, and deploying modern software solutions for businesses of all sizes.
 
 I specialize in creating scalable, secure, and high-performance applications for Web, Mobile, and Desktop platforms using modern technologies and best development practices.
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
+- 🔹 Professional Software Engineer Since 2017
 - 🔹 8+ Years of Professional Experience
 - 🔹 Full Stack Software Engineer
 - 🔹 Mobile & Web Application Developer
@@ -56,7 +57,7 @@ I specialize in creating scalable, secure, and high-performance applications for
 # 📂 Software Solutions I Have Developed
 
 ✅ University Management Systems  
-✅ Queue Management Systems (QS)  
+✅ Quality Assurance Systems  
 ✅ Inventory Management Systems  
 ✅ Accounting Systems  
 ✅ ERP Solutions  
@@ -108,8 +109,9 @@ I have experience working independently and within development teams while maint
 # 🌐 Connect With Me
 
 - GitHub: https://github.com/Sharif-pilot
-- LinkedIn: https://www.linkedin.com/in/sharif-hussaini-7706751b7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bms1kRCJrTjiqbk8sf9wOig%3D%3D
-- Email: sharif.hussaini@ahsp.af
+- LinkedIn: Add Your LinkedIn Profile
+- Portfolio: Add Your Portfolio Website
+- Email: Add Your Professional Email
 
 ---
 

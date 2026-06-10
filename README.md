@@ -104,6 +104,17 @@ I have experience working independently and within development teams while maint
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharif-pilot&layout=compact&theme=tokyonight)
 
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sharif-pilot/Sharif-pilot/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ---
 
 # 🌐 Connect With Me
@@ -113,6 +124,8 @@ I have experience working independently and within development teams while maint
 - Email: sharif.hussaini@ahsp.af
 
 ---
+
+
 
 # ⭐ Vision
 

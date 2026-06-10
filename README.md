@@ -113,7 +113,6 @@ I have experience working independently and within development teams while maint
   <img src="https://raw.githubusercontent.com/Sharif-pilot/Sharif-pilot/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
 
 ---
 
